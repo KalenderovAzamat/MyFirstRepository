@@ -1,8 +1,8 @@
 # MyFirstRepository
-##This is my first coming to programming world. 22-05-2022
+## This is my first coming to programming world. 22-05-2022
 
 
-###By the way
+### By the way
 *There are some verbs, that are not used in continiuos forms:*
 1. like                          
 2. love                          
