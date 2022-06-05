@@ -30,3 +30,5 @@ int main(){
  printf("Hello world");
   return 0;
 }//end main
+
+//Производим изменения в Мастере
